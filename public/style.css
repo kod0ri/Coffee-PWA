@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f5e6d3; text-align: center; }
+header { background: #3b2a1a; color: white; padding: 20px; }
+h1 { margin: 0; }
+img { margin: 20px 0; border-radius: 15px; }
+button { padding: 15px 30px; font-size: 18px; background: #8b4513; color: white; border: none; border-radius: 10px; cursor: pointer; margin: 5px;}
+ul { list-style: none; padding: 0; }
+li { background: white; margin: 10px auto; padding: 10px; width: 200px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
